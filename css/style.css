@@ -1,0 +1,314 @@
+body{
+margin: 0;
+padding:0;
+}
+.header{
+	height: 7em;
+}
+.wrapper {
+	width: 1008px;
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
+}
+
+.left-top {
+	    width: 30%;
+    float: left;
+}
+
+.social {
+	text-align: left;
+	padding-top: 17px;
+}
+.social ul{
+    margin: 0;
+    padding: 0;
+}
+.social ul li{
+    list-style: none;
+    display: inline-block;
+}
+.social ul li a{
+    text-decoration: none;
+    color: rgb(149,149,149);
+    text-align: left;
+    padding: 13px;
+}
+.logo1 {
+	float: left;
+    display: block;
+}
+.logo1 img{
+max-width: 100%;
+    float: left;
+    display: block;
+    padding-top: 20px;
+}
+
+
+.left-top-paragraph {
+	font-size: 29px;
+    color: rgb(159, 185, 145);
+}
+.paragraph1 {
+	font-size: 9px;
+    margin: -4em 0em 0em 6em;
+    color: rgba(236, 236, 236, 0.55);
+}
+
+.right-top {
+	width: 70%;
+	float: left;
+}
+.logo2{
+    display: block;
+    float: right;
+    padding-top: 8px;
+}
+nav{
+	    text-align: right;
+}
+nav ul{
+    margin: 0;
+    float: left;
+    padding: 2em 0 0 3em;
+}
+nav ul li{
+list-style: none;
+    float: left;
+    display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+    padding-left: 2em;
+    color: rgb(149,149,149);
+}
+.banner{
+background: url(../image/children.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 14% 0 6%;
+}
+
+.paragraph2{
+font-size: 3em;
+color: white;
+margin-bottom: 10px;
+}
+.paragraph3{
+    font-size: 3em;
+    text-align: center;
+    color: white;
+    margin: 10px 0 10px 0;
+}
+.content1{
+text-align: center;
+}
+.number{
+text-align: center;
+    font-size: 20px;
+    padding: 13px 0;
+}
+.submit{
+font-size: 20px;
+    padding: 5px 15px;
+    margin-top: 8px;
+    border-radius: 10px;
+    color: white;
+    background: #4CAF50;
+}
+.middle-container1{
+text-align: center;
+    padding: 20px 0 20px;
+}
+.paragraph4{
+font-size: 3em;
+    color: rgba(61, 61, 61, 0.91);
+}
+.paragraph5{
+	font-size: 2em;
+    color: rgb(149,149,149);
+}
+.middle-container2{
+padding: 4em 0 4em;
+}
+.logo3{
+float: left;
+}
+.logo4{
+float: left;
+}
+.logo5{
+float: left;
+}
+.logo6{
+float: left;
+}
+.aboutus-section{
+    margin: 0;
+    padding: 0;
+}
+.left-side{
+    width: 70%;
+    float: left;
+    padding-bottom: 5em;
+}
+.paragraph-part{
+padding: 15px 0 15px;
+}
+.paragraph6{
+font-size: 3em;
+    color: rgb(92, 92, 93);
+}
+.paragraph7{
+color: rgba(111, 111, 111, 0.91);
+}
+.button-part{
+padding: 0 0 18px 20px;
+}
+.button{
+	padding: 8px;
+}
+.logo-part-paragraph{
+background: url(../image/logo7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    width: 31%;
+    padding: 2em 10em 3em 0;
+}
+.logo-part-paragraph p{
+font-size: 18px;
+margin-left: 2em;
+color: rgb(14, 0, 0);
+}
+.click-here{
+padding: 7px 16px;
+    margin-left: 34px;
+    color: white;
+    background: rgb(92, 92, 93);
+    border-radius: 9px;
+}
+.right-side{
+width: 30%;
+    float: left;
+}
+.logo-part-paragraph1{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin-top: 5em;
+    background: #51af4c;
+}
+.join-us{
+padding: 8px;
+    margin: 05px 0 17px 8em;
+    color: rgba(61, 61, 61, 0.91);
+}
+.input-amount-here{
+    padding: 2px 0 3px 4em;
+    position: absolute;
+    margin-left: 3em;
+}
+.donate{
+padding: 2px 2em 2px 2em;
+    margin: 1em 0 0 5em;
+    color: white;
+    background: darkgreen;
+    font-size: 16px;
+}
+.paragraph8{
+text-align: center;
+    font-size: 26px;
+    color: yellow;
+}
+.paragraph9{
+font-size: 13px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+.top-footer{
+background: rgb(34,34,34);
+padding-bottom: 3em;
+}
+.top-footer-content{
+width: 100%;
+}
+.paragraph10{
+    padding-top: 2em;
+    font-size: 20px;
+    color: white;
+}
+.footer-logo{
+    padding: 2em 0;
+}
+.footer-logo img{
+
+}
+.footer-social-icon{
+
+}
+.footer-social-icon ul{
+margin: 0;
+    padding: 0;
+}
+.footer-social-icon ul li{
+display: inline-block;
+    list-style: none;
+    border: 1px solid black;
+    padding: 5px 0;
+        background: rgb(46,46,46);
+}
+.footer-social-icon ul li a{
+padding: 0 12px;
+color: white;
+}
+.paragraph11{
+font-size: 13px;
+    padding: 30px 0;
+}
+.bottom-footer{
+padding: 18px 0;
+    background: rgb(29,29,29);
+}
+.left-bottom-footer{
+width: 50%;
+}
+.left-bottom-footer p{
+margin-top: 1em;
+    color: white;
+}
+.right-bottom-footer{
+    width: 50%;
+    float: left;
+    padding-left: 28em;
+    overflow: hidden;
+    margin-top: -2.5em;
+}
+.right-bottom-footer ul{
+	padding: 0;
+    margin: 0;
+}
+.right-bottom-footer ul li{
+	list-style: none;
+    display: inline-block;
+    float: right;
+}
+.right-bottom-footer ul li a{
+	text-decoration: none;
+    display: block;
+    padding: 5px;
+    color: white;
+}
+.video{
+width: 50%;
+    padding: 40px 0;
+}
+.map{
+    width: 50%;
+    float: right;
+    height: 315px;
+    padding: 40px 0;
+}
